@@ -42,4 +42,7 @@ A robust, command-line-based Inventory Management System built with Python. This
 
 ```bash
 git clone https://github.com/mukesh-collab/Inventory-Management-System.git
-cd inventory-management
+git checkout my-inventory-code
+cd Inventory-Management-System/Desktop/all_fol/yminds/
+cd "Inventory Management"
+
